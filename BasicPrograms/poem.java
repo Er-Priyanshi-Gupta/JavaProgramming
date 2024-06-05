@@ -1,4 +1,4 @@
-package JavaProgramming;
+package JavaProgramming.BasicPrograms;
 public class poem{
     public static void main(String[] args){
         String poem = "Life, a canvas vast and bright,\n"
