@@ -1,4 +1,4 @@
-package JavaProgramming.BasicPrograms;
+package JavaProgramming.FunPrograms;
 import java.util.Scanner;
 public class kbc {
     public static void main(String[] args) {
