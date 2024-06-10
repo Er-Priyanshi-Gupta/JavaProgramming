@@ -19,7 +19,7 @@ public class armstrong {
         }
         return sum;
     }
-    public static boolean isarmstrong(int num) {
+    public static boolean isArmstrong(int num) {
         return num == summation(num);
     }
     public static void main(String[] args) {
@@ -27,7 +27,7 @@ public class armstrong {
         System.out.println("Enter a number to check whether it is Armstrong or not.");
         int number = sc.nextInt();
         
-        if (isarmstrong(number)) {
+        if (isArmstrong(number)) {
             System.out.println("Number " + number + " is Armstrong");
         } else {
             System.out.println("Number " + number + " is not Armstrong");

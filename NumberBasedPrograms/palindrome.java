@@ -11,7 +11,7 @@ public class palindrome{
         }
         return rev;
     }
-    public static boolean ispalin(int num){
+    public static boolean isPalin(int num){
         if(num == reverse(num)){
             return true;
         }
@@ -23,7 +23,7 @@ public class palindrome{
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter a number to check whether it is Palindrome or not.");
         int number = sc.nextInt();
-        if(ispalin(number)){
+        if(isPalin(number)){
             System.out.println("Number "+ number + " is Palindrome");
         }
         else{System.out.println("Number "+ number + " is not Palindrome");}
