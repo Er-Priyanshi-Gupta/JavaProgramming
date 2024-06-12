@@ -9,12 +9,12 @@ public class prime {
 
     public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
-    System.out.println("Enter a number to check whether it is Kaprekar or not.");
+    System.out.println("Enter a number to check whether it is Prime or not.");
     int number = sc.nextInt();
-    if (isKaprekar(number)) {
-        System.out.println("Number " + number + " is Kaprekar");
+    if (isPrime(number)) {
+        System.out.println("Number " + number + " is Prime");
     } else {
-        System.out.println("Number " + number + " is not Kaprekar");
+        System.out.println("Number " + number + " is not Prime");
     }
     sc.close();
 }
