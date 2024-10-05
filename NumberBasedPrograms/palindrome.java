@@ -1,4 +1,4 @@
-package JavaProgramming.NumberBasedPrograms;
+package javaprogramming.numberbasedprograms;
 import java.util.Scanner;
 public class palindrome{
     public static int reverse(int num){

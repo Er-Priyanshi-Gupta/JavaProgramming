@@ -1,4 +1,4 @@
-package JavaProgramming.NumberBasedPrograms;
+package javaprogramming.numberbasedprograms;
 import java.util.Scanner;
 public class happy {
     public static int sod(int num){

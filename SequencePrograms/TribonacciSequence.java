@@ -1,4 +1,4 @@
-package JavaProgramming.SequencePrograms;
+package javaprogramming.sequenceprograms;
 import java.util.Scanner;
 public class TribonacciSequence {
     public static int tribonacci(int num){

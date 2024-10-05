@@ -1,4 +1,4 @@
-package JavaProgramming.SequencePrograms;
+package javaprogramming.sequenceprograms;
 import java.util.Scanner;
 public class PerrinSequence {
     public static int perrin(int num){

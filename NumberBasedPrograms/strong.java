@@ -1,4 +1,4 @@
-package JavaProgramming.NumberBasedPrograms;
+package javaprogramming.numberbasedprograms;
 import java.util.Scanner;
 public class strong {
     public static int fact(int num) {

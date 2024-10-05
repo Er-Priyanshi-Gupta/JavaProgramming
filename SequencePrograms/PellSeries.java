@@ -1,4 +1,4 @@
-package JavaProgramming.SequencePrograms;
+package javaprogramming.sequenceprograms;
 import java.util.Scanner;
 public class PellSeries {
     public static int pell(int num){

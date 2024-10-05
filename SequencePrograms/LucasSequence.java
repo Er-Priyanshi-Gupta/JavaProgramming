@@ -1,4 +1,4 @@
-package JavaProgramming.SequencePrograms;
+package javaprogramming.sequenceprograms;
 import java.util.Scanner;
 public class LucasSequence {
     public static int lucas(int num){

@@ -1,4 +1,4 @@
-package JavaProgramming.PatternPrograms;
+package javaprogramming.patternprograms;
 
 public class PascalTriangle {
     
