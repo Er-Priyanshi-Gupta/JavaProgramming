@@ -5,9 +5,9 @@ public class calculator {
         Scanner sc = new Scanner(System.in);
         System.out.println("Welcome to the Calculator");
         System.out.println("Operations done by the calculator on two numbers are: +, -, *, /, %");
-        System.out.println("Enter number 1");
+        System.out.println("Enter number one");
         int num1 = sc.nextInt();
-        System.out.println("Enter number 2");
+        System.out.println("Enter number two");
         int num2 = sc.nextInt();
         System.out.println("Enter the Operator");
         String operator = sc.next();
